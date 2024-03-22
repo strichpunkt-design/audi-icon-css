@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Audi-Icons";
+  font-weight: normal;
+  font-style: normal;
+  src: url(https://github.com/audi/audi-icon/blob/master/dist/fonts/Audi%20Icons%20Regular.ttf)
+    format("truetype");
+}
